@@ -1,0 +1,11 @@
+String to upper and lower
+
+public class luckytam {
+    public static void main(String args[]){
+      String s="Lucky";
+      System.out.println(s.toUpperCase());
+      System.out.println(s.toLowerCase());
+      System.out.println(s);
+    }
+    
+}
