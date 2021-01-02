@@ -1,0 +1,8 @@
+String Builder Reverse
+public class Stringlnamereverse {
+    public static void main(String args[]){
+        StringBuilder s=new StringBuilder("Lucky");
+        s.reverse();
+        System.out.println(s);
+}
+}
