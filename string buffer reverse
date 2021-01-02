@@ -1,0 +1,8 @@
+ String Buffer Reverse
+public class Stringlnamereverse {
+    public static void main(String args[]){
+        StringBuffer s=new StringBuffer("Tamrakar");
+        s.reverse();
+        System.out.println(s);
+}
+}
