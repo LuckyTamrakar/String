@@ -1,0 +1,8 @@
+ String Builder use of append
+public class Stringlnameconcat {
+    public static void main(String args[]){
+        StringBuilder s=new StringBuilder("Lucky");
+        s.append(" Tamrakar");
+        System.out.println(s);
+}
+}
