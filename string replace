@@ -1,0 +1,8 @@
+ String Replace
+public class Stringreplace {
+    public static void main(String args[]){
+        String s=" LNCTS College has a great campus ";
+        String replacestring=s.replace("LNCTS","LNCT");
+        System.out.println(replacestring);  
+}
+}
