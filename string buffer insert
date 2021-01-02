@@ -1,0 +1,8 @@
+String buffer insert
+public class Stringlnameconcat {
+    public static void main(String args[]){
+        StringBuffer s=new StringBuffer("Hello");
+        s.insert(1,"Lucky");
+        System.out.println(s);
+}
+}
