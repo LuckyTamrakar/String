@@ -1,0 +1,8 @@
+ String Value of 
+public class Stringvalueof {
+    public static void main(String args[]){
+        String s="Lucky";
+        String n=String.valueOf(s);
+        System.out.println(n+2612);
+}
+}
